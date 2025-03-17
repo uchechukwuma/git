@@ -14,14 +14,14 @@ cd largest-banks-etl
 e.g pip install -r requirements.txt
 
 ## Usage
-1. Run the ETL process
+1. Run the ETL process: 
 python etl_script.py
 
 ## Examples
 1. Example command
 python etl_script.py
-2. Expected output
-Largest_banks_data.csv
+2. Expected output: 
+Largest_banks_data.csv;
 Banks.db
 
 ## Contributing
